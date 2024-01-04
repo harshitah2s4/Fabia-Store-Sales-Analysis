@@ -36,4 +36,5 @@ Fabia store wants to create an annual sales report for 2022. So that Fabia can u
 **Final Conclusion to Improve Fabia Store Sales-**
 
 Target Women customers of age (30-49) yrs who reside in Maharashtra, Karnataka and Uttar Pradesh by sharing ads, coupons , deals ,offers available on sites Amazon, Flipkart and Myntra.
+![Screenshot 2024-01-04 172840](https://github.com/harshitah2s4/Fabia-Store-Sales-Analysis/assets/101599002/8399cf26-d0b0-45a3-a97f-114dc12e2627)
 
