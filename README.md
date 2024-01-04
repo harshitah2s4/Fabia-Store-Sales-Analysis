@@ -1,4 +1,6 @@
 # Fabia-Store-Sales-Analysis
+
+Link to Excel Report: https://1drv.ms/x/s!AsfpNMKlAc_Bkqwm-tzTlt3AAetAlw</br>
 Build an Excel project to boost sales of Fabia Clothing Store by analyzing sales data  and presenting an interactive and detailed report with key insights.
 
 **BUSINESS REQUIREMENTS-**
